@@ -1,0 +1,8 @@
+# .gitignore
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.retry
+*.tar.gz
+molecule/default/.molecule/
